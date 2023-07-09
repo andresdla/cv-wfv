@@ -16,5 +16,5 @@ source("~/labo2023r/src/workflow-inicial/11A_631_FE_historia.r")
 source("~/labo2023r/src/workflow-inicial/11A_641_TS_training_strategy_CV.r")
 
 # ultimos pasos, muy lentos
-#source("~/labo2023r/src/workflow-inicial/11A_651_HT_lightgbm.r")
-#source("~/labo2023r/src/workflow-inicial/11A_661_ZZ_final.r")
+source("~/labo2023r/src/workflow-inicial/11A_651_HT_lightgbm_CV.r")
+source("~/labo2023r/src/workflow-inicial/11A_661_ZZ_final_CV.r")

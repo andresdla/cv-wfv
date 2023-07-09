@@ -11,7 +11,7 @@ require("yaml")
 
 # Parametros del script
 PARAM <- list()
-PARAM$experimento <- "TS6410_WFV_03"  #aqui cambie a una nueva carpeta @hgarni
+PARAM$experimento <- "TS6410_WFV"  #aqui cambie a una nueva carpeta @hgarni
 
 PARAM$exp_input <- "FE6310"
 
