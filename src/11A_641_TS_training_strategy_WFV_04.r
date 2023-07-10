@@ -11,7 +11,7 @@ require("yaml")
 
 # Parametros del script
 PARAM <- list()
-PARAM$experimento <- "TS6410_WFV04"  
+PARAM$experimento <- "TS6410_WFV_04"  
 #nueva carpeta Prueba de WFV con script 04 - entreno 2019/12 - 2021-02 (10 meeses)
 #@hgarni
 
