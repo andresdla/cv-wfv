@@ -11,7 +11,9 @@ require("yaml")
 
 # Parametros del script
 PARAM <- list()
-PARAM$experimento <- "TS6410_WFV"  #aqui cambie a una nueva carpeta @hgarni
+PARAM$experimento <- "TS6410_WFV04"  
+#nueva carpeta Prueba de WFV con script 04 - entreno 2019/12 - 2021-02 (10 meeses)
+#@hgarni
 
 PARAM$exp_input <- "FE6310"
 
@@ -26,14 +28,14 @@ PARAM$final_train <- c(
 )
 
 PARAM$train$training <- c(
-  202105, 202104, 202103, 202102, 202101,
+  202102, 202101,
   202012, 202011, 202010, 202009, 202008, 202002, 202001, 
-  201912, 201911, 201910, 201909, 201908, 201907
+  201912
 )
 
 
-PARAM$train$validation <- c(202106)
-PARAM$train$testing <- c(202107)
+PARAM$train$validation <- c(202103)
+PARAM$train$testing <- c(202104)
 
 # Atencion  0.1  de  undersampling de la clase mayoritaria,  los CONTINUA
 # 1.0 significa NO undersampling ,  0.1  es quedarse con el 10% de los CONTINUA
