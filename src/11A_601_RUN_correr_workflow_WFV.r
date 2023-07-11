@@ -14,9 +14,9 @@ options(error = function() {
 source("~/cv-wfv/src/11A_611_CA_reparar_dataset.r")
 source("~/cv-wfv/src/11A_621_DR_corregir_drifting.r")
 source("~/cv-wfv/src/11A_631_FE_historia.r")
-source("~/cv-wfv/src/11A_641_TS_training_strategy_WFC_01.r")
+source("~/cv-wfv/src/11A_641_TS_training_strategy_WFV_01.r")
 # ultimos pasos, muy lentos
-source("~/cv-wfv/src/11A_651_HT_lightgbm_WFC_01.r")
+source("~/cv-wfv/src/11A_651_HT_lightgbm_WFV_01.r")
 source("~/cv-wfv/src/11A_661_ZZ_final_WFV_01.r")
 
 #WFV_02
@@ -24,9 +24,9 @@ source("~/cv-wfv/src/11A_661_ZZ_final_WFV_01.r")
 source("~/cv-wfv/src/11A_611_CA_reparar_dataset.r")
 source("~/cv-wfv/src/11A_621_DR_corregir_drifting.r")
 source("~/cv-wfv/src/11A_631_FE_historia.r")
-source("~/cv-wfv/src/11A_641_TS_training_strategy_WFC_02.r")
+source("~/cv-wfv/src/11A_641_TS_training_strategy_WFV_02.r")
 # ultimos pasos, muy lentos
-source("~/cv-wfv/src/11A_651_HT_lightgbm_WFC_02.r")
+source("~/cv-wfv/src/11A_651_HT_lightgbm_WFV_02.r")
 source("~/cv-wfv/src/11A_661_ZZ_final_WFV_02.r")
 
 #WFV_03
@@ -34,9 +34,9 @@ source("~/cv-wfv/src/11A_661_ZZ_final_WFV_02.r")
 source("~/cv-wfv/src/11A_611_CA_reparar_dataset.r")
 source("~/cv-wfv/src/11A_621_DR_corregir_drifting.r")
 source("~/cv-wfv/src/11A_631_FE_historia.r")
-source("~/cv-wfv/src/11A_641_TS_training_strategy_WFC_03.r")
+source("~/cv-wfv/src/11A_641_TS_training_strategy_WFV_03.r")
 # ultimos pasos, muy lentos
-source("~/cv-wfv/src/11A_651_HT_lightgbm_WFC_03.r")
+source("~/cv-wfv/src/11A_651_HT_lightgbm_WFV_03.r")
 source("~/cv-wfv/src/11A_661_ZZ_final_WFV_03.r")
 
 #WFV_04
@@ -44,9 +44,9 @@ source("~/cv-wfv/src/11A_661_ZZ_final_WFV_03.r")
 source("~/cv-wfv/src/11A_611_CA_reparar_dataset.r")
 source("~/cv-wfv/src/11A_621_DR_corregir_drifting.r")
 source("~/cv-wfv/src/11A_631_FE_historia.r")
-source("~/cv-wfv/src/11A_641_TS_training_strategy_WFC_04.r")
+source("~/cv-wfv/src/11A_641_TS_training_strategy_WFV_04.r")
 # ultimos pasos, muy lentos
-source("~/cv-wfv/src/11A_651_HT_lightgbm_WFC_04.r")
+source("~/cv-wfv/src/11A_651_HT_lightgbm_WFV_04.r")
 source("~/cv-wfv/src/11A_661_ZZ_final_WFV_04.r")
 
 #WFV_05
@@ -54,7 +54,7 @@ source("~/cv-wfv/src/11A_661_ZZ_final_WFV_04.r")
 source("~/cv-wfv/src/11A_611_CA_reparar_dataset.r")
 source("~/cv-wfv/src/11A_621_DR_corregir_drifting.r")
 source("~/cv-wfv/src/11A_631_FE_historia.r")
-source("~/cv-wfv/src/11A_641_TS_training_strategy_WFC_05.r")
+source("~/cv-wfv/src/11A_641_TS_training_strategy_WFV_05.r")
 # ultimos pasos, muy lentos
-source("~/cv-wfv/src/11A_651_HT_lightgbm_WFC_05.r")
+source("~/cv-wfv/src/11A_651_HT_lightgbm_WFV_05.r")
 source("~/cv-wfv/src/11A_661_ZZ_final_WFV_05.r")
