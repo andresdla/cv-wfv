@@ -29,7 +29,7 @@ PARAM$final_train <- c(
 
 PARAM$train$training <- c(
   202105, 202104, 202103, 202102, 202101,
-  202012, 202011, 202010, 202009, 202008
+  202012
 )
 
 PARAM$train$validation <- c(202106)
